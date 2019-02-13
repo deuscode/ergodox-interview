@@ -63,7 +63,11 @@ As for my home setup, I run [ProxMox](https://www.proxmox.com/en/) as my hypervi
 ## What’s your keyboard setup like? Do you use a custom layout or custom keycaps?
 I use the all black Ergodox EZ with LEDs, blank keycaps and Cherry MX Brown switches at home and Blue at work. I might purchase some Kailh switches to try out how they feel and sound.
 
+![ergodoxhome](images/homeergodox.jpeg)
+
 As for the layout, I use a simple [layout](https://configure.ergodox-ez.com/layouts/GjKV/latest/0) which offers me the ability to write scripts a lot easier. I also have been switching between qwerty and dvorak layouts to see which one suits me best. It's all about that efficiency life!
+
+![ergodoxwork](images/workergodox.jpeg)
 
 ## What would be your dream setup?
 Honestly, I would need to be a rich man to have a dream setup in mind. I would have all these LEDs, rack mounted servers, and plus more! I would like something simple and clean like the picture below, but I would have to move out of my small apartment and into a house of my own.
