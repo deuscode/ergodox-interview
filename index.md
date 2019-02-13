@@ -34,9 +34,17 @@ Currently, my desktop build looks like this:
 - Monitor:
   - [2 x 34" Curved 21:9 UltraWide LG LED Monitor](https://www.lg.com/us/monitors/lg-34UC87C-B-ultrawide-led-monitor)
 
+![homepc](images/homepc.jpeg)
+
 For peripherals, I have two ErgoDox EZ, one for the office and one for home. I use the Cherry MX Blue switches in the office because we are in our own [hex offices] _(or else my co-workers would hate me)_. I love the clicky noises that these switches produce as the sounds bounces off the glass walls. At home, I use the Cherry MX Brown switches for their subtle but tactile clicks _(or else my wife would hate me)_. I rarely use my mouse, but I use the [Razer Mamba Chroma](https://www.amazon.com/gp/product/B013HSWF40/ref=oh_aui_search_asin_title?ie=UTF8&psc=1) and the [Razer Firefly Mouse Mat](https://www.amazon.com/gp/product/B00Y4S5KPY/ref=oh_aui_search_asin_title?ie=UTF8&psc=1) because LED is life.
 
+All of this equipment and you think I'd invest in a decent table:
+
+![homepcmonitor](images/homepcmonitor.jpeg)
+
 I also run a homelab at home with a [Dell R710]() that I salvaged off of eBay. It runs all of my virtual servers from backups to my Plex media server. As you can see, I'm very invested in my hardware. This baby has 128GBs of RAM and a 12-Core processor, more than enough to run whatever my heart desires _(well... almost)_. I also have a [Synology DS216play NAS](https://www.amazon.com/gp/product/B015JQAWW0/ref=oh_aui_search_asin_title?ie=UTF8&psc=1) on a RAID10 setup totalling 4TBs of usuable disk space. I also have a [4TB Seagate external harddrive](https://www.amazon.com/gp/product/B00ZTRXFBA/ref=oh_aui_search_asin_title?ie=UTF8&psc=1) to backup my NAS _(although this doesn't protect against fires or other disasters at home, I have been actively trying to avoid those...)_.
+
+![dell server](images/dellserver.jpeg)
 
 Now, enough about backups! The hardware that connects all of this together are my networking gear. I use a [Ubiquiti Edgerouter](https://www.amazon.com/gp/product/B00HXT8EKE/ref=oh_aui_search_asin_title?ie=UTF8&psc=1) to route traffic to and from the interwebz. I also have a [TP-Link 16-Port Gigabit Smart Switch](https://www.amazon.com/gp/product/B00K4DS67C/ref=oh_aui_search_asin_title?ie=UTF8&psc=1) segmented via VLAN for everything else that needs access to my LAN. This includes my PC, smart hubs, server, management cards, NAS, and any other devices that require a hard-link. I also have a [NETGEAR R7000 Nighthawk AC1900 Dual Band Wi-Fi Router](https://www.amazon.com/R7000-100PAS-Nighthawk-Parental-Controls-Compatible/dp/B00F0DD0I6/ref=sr_1_1?keywords=NETGEAR+r7000&qid=1550025681&s=gateway&sr=8-1) for all of my smart devices, Amazon Echos, and smart bulbs. 
 
