@@ -1,4 +1,4 @@
-#Peter Kay
+# Peter Kay
 Site Reliability Engineer, Stack Overflow 
 
 ## Who are you, and what do you do?
@@ -7,7 +7,7 @@ I'm [Peter](https://kaypeter.com) and I work as a Site Reliability Engineer @ [S
 ## What hardware do you use?
 We have desktop refreshes every few years at SO and my awesome colleague, [Nick Craver](https://nickcraver.com), wrote a wonderful [blog](https://nickcraver.com/desktop-build/) on the desktop build that all of our engineers use.
 
-Since SO is a remote-first culture, I work from home frequesntly and built a desktop to my specifications.
+Since SO is a remote-first culture, I work from home frequently and built a desktop to my specifications.
 
 Currently, my desktop build looks like this:
 
@@ -36,13 +36,13 @@ Currently, my desktop build looks like this:
 
 ![homepc](images/homepc.jpeg)
 
-For peripherals, I have two ErgoDox EZ, one for the office and one for home. I use the Cherry MX Blue switches in the office because we are in our own [hex offices] _(or else my co-workers would hate me)_. I love the clicky noises that these switches produce as the sounds bounces off the glass walls. At home, I use the Cherry MX Brown switches for their subtle but tactile clicks _(or else my wife would hate me)_. I rarely use my mouse, but I use the [Razer Mamba Chroma](https://www.amazon.com/gp/product/B013HSWF40/ref=oh_aui_search_asin_title?ie=UTF8&psc=1) and the [Razer Firefly Mouse Mat](https://www.amazon.com/gp/product/B00Y4S5KPY/ref=oh_aui_search_asin_title?ie=UTF8&psc=1) because LED is life.
+For peripherals, I have two ErgoDox EZ, one for the office and one for home. I use the Cherry MX Blue switches in the office because we are in our own [hex offices](images/hexoffice.jpg) _(or else my coworkers would hate me)_. I love the clicky noises that these switches produce as the sounds bounces off the glass walls. At home, I use the Cherry MX Brown switches for their subtle but tactile clicks _(or else my wife would hate me)_. I rarely use my mouse, but I use the [Razer Mamba Chroma](https://www.amazon.com/gp/product/B013HSWF40/ref=oh_aui_search_asin_title?ie=UTF8&psc=1) and the [Razer Firefly Mouse Mat](https://www.amazon.com/gp/product/B00Y4S5KPY/ref=oh_aui_search_asin_title?ie=UTF8&psc=1) because LED is life.
 
 All of this equipment and you think I'd invest in a decent table:
 
 ![homepcmonitor](images/homepcmonitor.jpeg)
 
-I also run a homelab at home with a [Dell R710]() that I salvaged off of eBay. It runs all of my virtual servers from backups to my Plex media server. As you can see, I'm very invested in my hardware. This baby has 128GBs of RAM and a 12-Core processor, more than enough to run whatever my heart desires _(well... almost)_. I also have a [Synology DS216play NAS](https://www.amazon.com/gp/product/B015JQAWW0/ref=oh_aui_search_asin_title?ie=UTF8&psc=1) on a RAID10 setup totalling 4TBs of usuable disk space. I also have a [4TB Seagate external harddrive](https://www.amazon.com/gp/product/B00ZTRXFBA/ref=oh_aui_search_asin_title?ie=UTF8&psc=1) to backup my NAS _(although this doesn't protect against fires or other disasters at home, I have been actively trying to avoid those...)_.
+I also run a homelab at home with a [Dell R710]() that I salvaged off of eBay. It runs all of my virtual servers from backups to my Plex media server. As you can see, I'm very invested in my hardware. This baby has 128GBs of RAM and a 12-Core processor, more than enough to run whatever my heart desires _(well... almost)_. I also have a [Synology DS216play NAS](https://www.amazon.com/gp/product/B015JQAWW0/ref=oh_aui_search_asin_title?ie=UTF8&psc=1) on a RAID10 setup totalling 4TBs of usable disk space. I also have a [4TB Seagate external hard drive](https://www.amazon.com/gp/product/B00ZTRXFBA/ref=oh_aui_search_asin_title?ie=UTF8&psc=1) to backup my NAS _(although this doesn't protect against fires or other disasters at home, I have been actively trying to avoid those...)_.
 
 ![dell server](images/dellserver.jpeg)
 
@@ -75,3 +75,4 @@ Honestly, I would need to be a rich man to have a dream setup in mind. I would h
 Of course I would replace those keyboards with the ErgoDox =)
 
 ![Dream Setup](images/dreamsetup.jpg)
+
