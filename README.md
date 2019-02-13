@@ -36,7 +36,7 @@ Currently, my desktop build looks like this:
 
 ![homepc](images/homepc.jpeg)
 
-For peripherals, I have two ErgoDox EZ, one for the office and one for home. I use the Cherry MX Blue switches in the office because we are in our own [hex offices](images/hexoffice.jpg) _(or else my coworkers would hate me)_. I love the clicky noises that these switches produce as the sounds bounces off the glass walls. At home, I use the Cherry MX Brown switches for their subtle but tactile clicks _(or else my wife would hate me)_. I rarely use my mouse, but I use the [Razer Mamba Chroma](https://www.amazon.com/gp/product/B013HSWF40/ref=oh_aui_search_asin_title?ie=UTF8&psc=1) and the [Razer Firefly Mouse Mat](https://www.amazon.com/gp/product/B00Y4S5KPY/ref=oh_aui_search_asin_title?ie=UTF8&psc=1) because LED is life.
+For peripherals, I have two ErgoDox EZ, one for the office and one for home. I use the Cherry MX Blue switches in the office because we are in our own [hex offices](https://i.stack.imgur.com/joQex.jpg) _(or else my coworkers would hate me)_. I love the clicky noises that these switches produce as the sounds bounces off the glass walls. At home, I use the Cherry MX Brown switches for their subtle but tactile clicks _(or else my wife would hate me)_. I rarely use my mouse, but I use the [Razer Mamba Chroma](https://www.amazon.com/gp/product/B013HSWF40/ref=oh_aui_search_asin_title?ie=UTF8&psc=1) and the [Razer Firefly Mouse Mat](https://www.amazon.com/gp/product/B00Y4S5KPY/ref=oh_aui_search_asin_title?ie=UTF8&psc=1) because LED is life.
 
 All of this equipment and you think I'd invest in a decent table:
 
